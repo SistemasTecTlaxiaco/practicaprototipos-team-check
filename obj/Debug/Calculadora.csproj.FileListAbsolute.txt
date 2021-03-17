@@ -1,0 +1,19 @@
+c:\users\nayeli\documents\visual studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\Nayeli\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\Nayeli\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\Nayeli\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\Nayeli\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\Nayeli\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.Cache
+C:\Users\Nayeli\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\Nayeli\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
+C:\Users\Nayeli\Documents\Visual Studio 2012\Projects\Calculadora\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+C:\Users\milo4\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\milo4\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\milo4\source\repos\Calculadora\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\milo4\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\milo4\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Form1.resources
+C:\Users\milo4\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\milo4\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\milo4\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\milo4\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\milo4\source\repos\Calculadora\Calculadora\obj\Debug\Calculadora.pdb
